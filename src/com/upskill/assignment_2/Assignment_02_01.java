@@ -7,10 +7,10 @@ public class Assignment_02_01 {
 		
 		int i;
 		 for( i=50;i>=1;i-- ) {
-			 System.out.print(i+" ");  //condition and print not println  
+			 System.out.print(i+" ");    
 			 
 		 }
 
-	}
+	} //condition and print not print line 
 
 }

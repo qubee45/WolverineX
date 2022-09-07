@@ -11,7 +11,7 @@ package com.upskill.assignment_2;
 
 public class Assignment_02_02 {
 	
-	static int Mark = 55;
+	static int Mark = 65;
 	
 	public static void main(String[] args) {
 		Mark();
